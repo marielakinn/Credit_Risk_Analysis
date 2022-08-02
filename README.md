@@ -62,4 +62,4 @@ The following are achieved by using the credit card credit dataset from LendingC
 
 ## Summary
 
-The EasyEnsembleClassifer model yielded the best results with an accuracy rate of 93% and a 9% precision rate when predicting "High Risk" candidates. The sensitivity rate was also the highest at 92% compared to the other models. The result for predicting "Low Risk" was also the highest with the sensitivity rate at 94% and an F1 score of 97%. Therefore, if a model needed to be recommended to perform this type of analysis, then this one would be the clear choice.
+The EasyEnsembleClassifer model yielded the best results with an accuracy rate of 93% and a 9% precision rate when predicting "High Risk" candidates. The sensitivity rate was also the highest at 92% compared to the other models. The result for predicting "Low Risk" was also the highest with the sensitivity rate at 94% and an F1 score of 97%. Therefore, if a model needs to be recommended to perform this analysis, then this one would be the preferred one.
